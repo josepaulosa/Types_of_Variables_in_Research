@@ -4,4 +4,4 @@
 
 ## Numeric/Quantitative vs Categorical Variables:
 <br>
-[Types of Variables](Types%20of%20Variables/TYPES%20OF%20VARIABLES.png)
+![Types of Variables](Types%20of%20Variables/TYPES%20OF%20VARIABLES.png)
